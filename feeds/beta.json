@@ -1,37 +1,9 @@
 ﻿{
-    "sha256":  {
-                   "value":  "673AF9D6C0E52EBD9C930F0B7778D98934C2BC916CC8C9143D0CBE4F6B204F50",
-                   "PSPath":  "D:\\a\\Tappy_App\\Tappy_App\\dist\\tabby_app.sha256",
-                   "PSParentPath":  "D:\\a\\Tappy_App\\Tappy_App\\dist",
-                   "PSChildName":  "tabby_app.sha256",
-                   "PSDrive":  {
-                                   "CurrentLocation":  "a\\Tappy_App\\Tappy_App",
-                                   "Name":  "D",
-                                   "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
-                                   "Root":  "D:\\",
-                                   "Description":  "Temporary Storage",
-                                   "MaximumSize":  null,
-                                   "Credential":  "System.Management.Automation.PSCredential",
-                                   "DisplayRoot":  null
-                               },
-                   "PSProvider":  {
-                                      "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
-                                      "HelpFile":  "System.Management.Automation.dll-Help.xml",
-                                      "Name":  "FileSystem",
-                                      "PSSnapIn":  "Microsoft.PowerShell.Core",
-                                      "ModuleName":  "Microsoft.PowerShell.Core",
-                                      "Module":  null,
-                                      "Description":  "",
-                                      "Capabilities":  52,
-                                      "Home":  "C:\\Users\\runneradmin",
-                                      "Drives":  "C D"
-                                  },
-                   "ReadCount":  1
-               },
-    "version":  "beta-v0.4.1",
     "schema_version":  1,
     "app":  "tabby_app",
-    "release_date":  "2026-06-26T18:06:10Z",
+    "version":  "beta-v0.4.1",
+    "file":  "tabby_app.zip",
+    "sha256":  "F1924C5CEF0C5F9C1820C43820AE79421C5DAF67F7E6833968AD71F00C713C3E",
     "download_url":  "https://github.com/F-Jar2512/Tabby-App-Distribution/releases/download/beta-v0.4.1/tabby_app.zip",
-    "file":  "tabby_app.zip"
+    "release_date":  "2026-06-26T18:29:22Z"
 }

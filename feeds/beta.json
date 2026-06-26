@@ -1,6 +1,6 @@
 ﻿{
     "sha256":  {
-                   "value":  "46A2EEBCE358612B9C8070114BFE20B7B98C55EAD580116AA37B3A4ACDA8A847",
+                   "value":  "673AF9D6C0E52EBD9C930F0B7778D98934C2BC916CC8C9143D0CBE4F6B204F50",
                    "PSPath":  "D:\\a\\Tappy_App\\Tappy_App\\dist\\tabby_app.sha256",
                    "PSParentPath":  "D:\\a\\Tappy_App\\Tappy_App\\dist",
                    "PSChildName":  "tabby_app.sha256",
@@ -31,7 +31,7 @@
     "version":  "beta-v0.4.1",
     "schema_version":  1,
     "app":  "tabby_app",
-    "release_date":  "2026-06-26T17:52:28Z",
+    "release_date":  "2026-06-26T18:06:10Z",
     "download_url":  "https://github.com/F-Jar2512/Tabby-App-Distribution/releases/download/beta-v0.4.1/tabby_app.zip",
     "file":  "tabby_app.zip"
 }

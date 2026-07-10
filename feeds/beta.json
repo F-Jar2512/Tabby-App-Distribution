@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "app": "tabby_app",
-  "version": "beta-v0.4.1",
+  "version": "v1.0.0-beta.1",
   "file": "tabby_app.zip",
-  "sha256": "84EE662448F5361222CFA60725A33365F816284D2C4D88AA326C9385BC324791",
-  "download_url": "https://github.com/F-Jar2512/Tabby-App-Distribution/releases/download/beta-v0.4.1/tabby_app.zip",
-  "release_date": "2026-06-26T22:54:40Z"
+  "sha256": "5F49E94D337117F68AEF0A3E7E2ABF45EEA655E80A0EEE0F5DF461B8DB426DD4",
+  "download_url": "https://github.com/F-Jar2512/Tabby-App-Distribution/releases/download/v1.0.0-beta.1/tabby_app.zip",
+  "release_date": "2026-07-10T11:40:48Z"
 }
